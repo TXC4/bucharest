@@ -1,0 +1,9 @@
+.city-node {
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    background-color: red;
+    border-radius: 50%;
+    background: linear-gradient(.4turn, white, red);
+    box-shadow: 1px 1px 3px gray;
+}
